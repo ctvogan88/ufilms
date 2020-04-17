@@ -43,9 +43,3 @@
     ]
   }
 }
-=======
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
-  }
-}
->>>>>>> e0bc4f6a0b4f74f787becaf89b85a65dba30e240

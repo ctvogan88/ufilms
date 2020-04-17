@@ -36,28 +36,4 @@
   to {
     transform: rotate(360deg);
   }
-=======
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
-}
-
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
-}
-
-.App-title {
-  font-size: 1.5em;
-}
-
-.App-intro {
-  font-size: large;
-}
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
->>>>>>> e0bc4f6a0b4f74f787becaf89b85a65dba30e240
 }
